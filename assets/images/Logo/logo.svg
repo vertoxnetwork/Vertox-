@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 45.4" style="enable-background:new 0 0 200 45.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#081828;} /* Dark Blue */
+	.st1{fill:#2ED06E;} /* Green */
+</style>
+<g>
+	<!-- Example Logo: This can be adjusted to your own custom logo -->
+
+	
+	<!-- Text VN and VERTOX -->
+	<text x="50" y="30" class="st1" font-family="Arial, sans-serif" font-size="24" font-weight="bold">VN</text>
+	<text x="100" y="30" class="st0" font-family="Arial, sans-serif" font-size="24" font-weight="bold">VERTOX</text>
+</g>
+</svg>
